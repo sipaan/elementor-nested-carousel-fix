@@ -1,0 +1,11 @@
+/*!
+ * Elementor Pro: carousels inside carousels.
+ * https://github.com/sipaan/elementor-nested-carousel-fix (MIT)
+ *
+ * The Loop/Nested Carousel's arrow style (e.g. the background colour) also reaches the arrows of
+ * Image Carousels in its slides. Keep those transparent; change the value if your photo arrows
+ * should have a background of their own.
+ */
+.elementor :is(.elementor-widget-loop-carousel, .elementor-widget-n-carousel) .elementor-widget-image-carousel .elementor-swiper-button.elementor-swiper-button {
+	background-color: transparent;
+}
