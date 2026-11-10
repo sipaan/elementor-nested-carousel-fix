@@ -8,7 +8,7 @@ A workaround for an **Elementor Pro** bug that appears when a **Loop Carousel** 
 
 Tested with Elementor 4.3.6 and Elementor Pro 4.3.3 (WordPress 7.1, PHP 8.5). The Elementor Pro changelog up to 4.4.0 (9 Nov 2026) has no fix for it.
 
-**Upstream issue:** https://github.com/elementor/elementor/issues/ (link added once filed)
+**Upstream issue:** https://github.com/elementor/elementor/issues/38125
 
 ## Confirmed by Elementor support
 
